@@ -1,0 +1,76 @@
+------------------------------------
+Date of Report Wed Jun 15 16:08:27 EET 2022
+Number of Customers: 3
+Number of Customer that have a reservation: 1
+Rooms Available : 
+Type of Room: A NO. of available: 6 HotelID: 1
+Type of Room: B NO. of available: 14 HotelID: 1
+Type of Room: C NO. of available: 48 HotelID: 1
+Type of Room: A NO. of available: 20 HotelID: 2
+Type of Room: B NO. of available: 30 HotelID: 2
+Type of Room: C NO. of available: 50 HotelID: 2
+Meals sold
+MealID: 8 Sold meals:1
+MealID: 6 Sold meals:1
+MealID: 0 Sold meals:1
+Average Room Price: 99.99
+Average Meal Price: 12.12
+------------------------------------
+Date of Report Wed Jun 15 17:53:41 EET 2022
+Number of Customers: 2
+Number of Customer that have a reservation: 2
+Rooms Available : 
+Type of Room: A NO. of available: 9 HotelID: 1
+Type of Room: B NO. of available: 24 HotelID: 1
+Type of Room: C NO. of available: 46 HotelID: 1
+Type of Room: A NO. of available: 20 HotelID: 2
+Type of Room: B NO. of available: 30 HotelID: 2
+Type of Room: C NO. of available: 50 HotelID: 2
+Meals sold
+MealID: 8 Sold meals:1
+Average Room Price: 199.99
+Average Meal Price: 15.0
+------------------------------------
+Date of Report Wed Jun 15 17:54:13 EET 2022
+Number of Customers: 2
+Number of Customer that have a reservation: 2
+Rooms Available : 
+Type of Room: A NO. of available: 9 HotelID: 1
+Type of Room: B NO. of available: 24 HotelID: 1
+Type of Room: C NO. of available: 46 HotelID: 1
+Type of Room: A NO. of available: 20 HotelID: 2
+Type of Room: B NO. of available: 30 HotelID: 2
+Type of Room: C NO. of available: 50 HotelID: 2
+Meals sold
+MealID: 8 Sold meals:1
+Average Room Price: 199.99
+Average Meal Price: 15.0
+------------------------------------
+Date of Report Wed Jun 15 17:54:28 EET 2022
+Number of Customers: 2
+Number of Customer that have a reservation: 0
+Rooms Available : 
+Type of Room: A NO. of available: 16 HotelID: 1
+Type of Room: B NO. of available: 24 HotelID: 1
+Type of Room: C NO. of available: 46 HotelID: 1
+Type of Room: A NO. of available: 20 HotelID: 2
+Type of Room: B NO. of available: 30 HotelID: 2
+Type of Room: C NO. of available: 50 HotelID: 2
+Meals sold
+MealID: 8 Sold meals:1
+Average Room Price: 0.0
+Average Meal Price: 15.0
+------------------------------------
+Date of Report Wed Jun 15 17:54:56 EET 2022
+Number of Customers: 2
+Number of Customer that have a reservation: 0
+Rooms Available : 
+Type of Room: A NO. of available: 16 HotelID: 1
+Type of Room: B NO. of available: 24 HotelID: 1
+Type of Room: C NO. of available: 46 HotelID: 1
+Type of Room: A NO. of available: 20 HotelID: 2
+Type of Room: B NO. of available: 30 HotelID: 2
+Type of Room: C NO. of available: 50 HotelID: 2
+Meals sold
+Average Room Price: 0.0
+Average Meal Price: 0.0
