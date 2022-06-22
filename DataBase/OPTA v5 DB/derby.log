@@ -1,0 +1,16 @@
+Thu Jun 16 07:58:57 EET 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Jun 16 07:58:57 EET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-6b17-e5f9-ffff96afefdb 
+on database directory D:\Faculty\Third_year\1st_Term\Software_Engineering\DB_for_project\Database\OPTA v5 DB\OPTA v5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/D:/Faculty/Third_year/1st_Term/Software_Engineering/OPTA%20v3.5/Needed%20Libraryies/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=D:\Faculty\Third_year\1st_Term\Software_Engineering\OPTA v3.5\Needed Libraryies\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\Faculty\Third_year\1st_Term\Software_Engineering\DB_for_project\Database\OPTA v5 DB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 16 10:34:06 EET 2022: Shutting down Derby engine
